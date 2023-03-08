@@ -1,10 +1,21 @@
 # Hi, I'm Kushagra! 👋
-
 ![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=Kushagra-git&show_icons=true&theme=transparent&count_private=true)
+
+
+
 ## 🚀 About Me
 I'm a coding enthusiast with experience in App(android/flutter) and Web Development!
 
 <!---
+<container>
+<a href="https://github.com/Kushagra-git/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kushagra-git&show_icons=true&theme=transparent&count_private=true" />
+</a>
+<a href="https://github.com/Kushagra-git/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git" />
+</a>
+</container>
+
 ## 🔗 Links
 [//]: [![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-1kzHtwBY8n0TY5NhYxNaw)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://namanrivaan.medium.com)
@@ -16,14 +27,6 @@ I'm a coding enthusiast with experience in App(android/flutter) and Web Developm
 ## 🛠 Skills
 Flutter, Android, Dart, Java, Kotlin, Javascript, React, HTML, CSS, Firebase, Node, MongoDB, Dotnet
 Kushagra-git
-<div>
-<a href="https://github.com/Kushagra-git/github-readme-stats">
-  <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git](https://github-readme-stats.vercel.app/api?username=Kushagra-git&show_icons=true&theme=transparent&count_private=true)" />
-</a>
-<a href="https://github.com/Kushagra-git/github-readme-stats">
-  <img align="right" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git)" />
-</a>
-</div>
-<!---
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git)](https://github.com/Kushagra-git/github-readme-stats)
---->
