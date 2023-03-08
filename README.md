@@ -18,10 +18,12 @@ Flutter, Android, Dart, Java, Kotlin, Javascript, React, HTML, CSS, Firebase, No
 Kushagra-git
 <div>
 <a href="https://github.com/Kushagra-git/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git" />
+  <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git](https://github-readme-stats.vercel.app/api?username=Kushagra-git&show_icons=true&theme=transparent&count_private=true)" />
 </a>
 <a href="https://github.com/Kushagra-git/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git" />
+  <img align="right" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git)" />
 </a>
 </div>
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git)](https://github.com/Kushagra-git/github-readme-stats)
+--->
