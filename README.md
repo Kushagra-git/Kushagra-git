@@ -1,6 +1,6 @@
 # Hi, I'm Kushagra! 👋
 
-![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=Kushagra-git&show_icons=true&theme=react)
+![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=Kushagra-git&show_icons=true&theme=flutter)
 ## 🚀 About Me
 I'm a coding enthusiast with experience in App(android/flutter) and Web Development!
 
