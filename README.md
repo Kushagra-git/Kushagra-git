@@ -1,6 +1,6 @@
 # Hi, I'm Kushagra! 👋
 
-![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=Kushagra-git&show_icons=true&theme=flutter)
+![Kushagra's github stats](https://github-readme-stats.vercel.app/api?username=Kushagra-git&show_icons=true&theme=transparent&count_private=true)
 ## 🚀 About Me
 I'm a coding enthusiast with experience in App(android/flutter) and Web Development!
 
@@ -16,3 +16,12 @@ I'm a coding enthusiast with experience in App(android/flutter) and Web Developm
 ## 🛠 Skills
 Flutter, Android, Dart, Java, Kotlin, Javascript, React, HTML, CSS, Firebase, Node, MongoDB, Dotnet
 Kushagra-git
+<div>
+<a href="https://github.com/Kushagra-git/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git" />
+</a>
+<a href="https://github.com/Kushagra-git/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git" />
+</a>
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-git)](https://github.com/Kushagra-git/github-readme-stats)
